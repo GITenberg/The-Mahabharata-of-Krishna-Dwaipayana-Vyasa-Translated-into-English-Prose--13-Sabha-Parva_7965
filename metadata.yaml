@@ -1,12 +1,17 @@
 _repo: The-Mahabharata-of-Krishna-Dwaipayana-Vyasa-Translated-into-English-Prose--13-Sabha-Parva_7965
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Ganguli, Kisari Mohan
     gutenberg_agent_id: '2563'
     url: http://www.gutenberg.org/2009/agents/2563
     wikipedia: http://en.wikipedia.org/wiki/Kisari_Mohan_Ganguli
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7965#The-Mahabharata-of-Krishna-Dwaipayana-Vyasa-Translated-into-English-Prose--13-Sabha-Parva
 gutenberg_bookshelf: Hinduism
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
