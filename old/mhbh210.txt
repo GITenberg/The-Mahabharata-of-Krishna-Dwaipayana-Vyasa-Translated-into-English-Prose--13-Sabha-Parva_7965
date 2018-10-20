@@ -34,6 +34,7 @@ Edition: 10
 
 Language: English
 
+Character set encoding: US-ASCII
 
 *** START OF THE PROJECT GUTENBERG EBOOK, THE MAHABHARATA OF KRISHNA-DWAIPAYANA VYASA, PART 2 ***
 
